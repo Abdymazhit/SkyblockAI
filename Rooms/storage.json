@@ -2,15 +2,18 @@
   "version": "1.0.0",
   "rooms": {
     "1x1": [
-	  "spawn",
+      "spawn",
       "healing",
       "puzzle",
       "puzzle2",
-	  "puzzle3",
+      "puzzle3",
       "water",
       "miniboss",
       "miniboss2",
-	  "mural"
+      "miniboss3",
+      "mural",
+	  "lockedaway",
+	  "raccoon"
     ],
     "1x2": [
       "balcony",
@@ -21,8 +24,8 @@
     ],
     "1x4": [],
     "2x2": [
-	  "museum"
-	],
+      "museum"
+    ],
     "L": [
       "market"
     ]

@@ -1,1 +1,1 @@
-{"version":"1.0.0","rooms":{"1x1":["healing","mural","spawn", "boss", "teleport", "water", "miniboss"],"1x2":["balcony"],"1x3":["catwalk"],"1x4":[],"2x2":[],"L":["market"]}}
+{"version":"1.0.0","rooms":{"1x1":["healing","mural","spawn", "boss", "teleport", "water", "miniboss"],"1x2":["balcony"],"1x3":["catwalk"],"1x4":[],"2x2":[],"L":[]}}

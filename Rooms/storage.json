@@ -17,12 +17,16 @@
       "mural",
 	  "lockedaway",
 	  "raccoon",
-	  "knight"
+	  "knight",
+	  "cell",
+	  "hall",
+	  "scaffolding"
     ],
     "1x2": [
       "balcony",
       "skull",
-	  "redstonewarrior"
+	  "redstonewarrior",
+	  "bridges"
     ],
     "1x3": [
       "catwalk",

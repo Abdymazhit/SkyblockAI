@@ -30,11 +30,13 @@
     ],
     "1x3": [
       "catwalk",
-	  "wizard"
+	  "wizard",
+	  "diagonal"
     ],
     "1x4": [
 	  "pit",
-	  "mossy"
+	  "mossy",
+	  "hallway"
 	],
     "2x2": [
       "museum",

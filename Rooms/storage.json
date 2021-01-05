@@ -20,13 +20,15 @@
 	  "knight",
 	  "cell",
 	  "hall",
-	  "scaffolding"
+	  "scaffolding",
+	  "puzzletrapveryhard"
     ],
     "1x2": [
       "balcony",
       "skull",
 	  "redstonewarrior",
-	  "bridges"
+	  "bridges",
+	  "pedestal"
     ],
     "1x3": [
       "catwalk",

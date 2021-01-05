@@ -8,13 +8,16 @@
       "puzzle2",
       "puzzle3",
 	  "puzzlebox",
+	  "puzzleicepath",
+	  "puzzletrap",
       "water",
       "miniboss",
       "miniboss2",
       "miniboss3",
       "mural",
 	  "lockedaway",
-	  "raccoon"
+	  "raccoon",
+	  "knight"
     ],
     "1x2": [
       "balcony",

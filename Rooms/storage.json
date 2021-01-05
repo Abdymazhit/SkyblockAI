@@ -21,7 +21,9 @@
 	  "cell",
 	  "hall",
 	  "scaffolding",
-	  "puzzletrapveryhard"
+	  "puzzletrapveryhard",
+	  "painting",
+	  "spikes"
     ],
     "1x2": [
       "balcony",

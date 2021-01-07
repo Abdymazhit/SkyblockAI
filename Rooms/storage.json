@@ -35,7 +35,8 @@
 	  "redstonewarrior",
 	  "bridges",
 	  "pedestal",
-	  "pressureplate"
+	  "pressureplate",
+	  "mage"
     ],
     "1x3": [
       "catwalk",
@@ -45,12 +46,14 @@
     "1x4": [
 	  "pit",
 	  "mossy",
-	  "hallway"
+	  "hallway",
+	  "quartzknight"
 	],
     "2x2": [
       "museum",
 	  "railtrack",
-	  "atlas"
+	  "atlas",
+	  "supertall"
     ],
     "L": [
       "market",

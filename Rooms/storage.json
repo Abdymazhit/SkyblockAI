@@ -25,14 +25,17 @@
 	  "painting",
 	  "spikes",
 	  "leaves",
-	  "prisoncell"
+	  "prisoncell",
+	  "arrowtrap",
+	  "slabs"
     ],
     "1x2": [
       "balcony",
       "skull",
 	  "redstonewarrior",
 	  "bridges",
-	  "pedestal"
+	  "pedestal",
+	  "pressureplate"
     ],
     "1x3": [
       "catwalk",

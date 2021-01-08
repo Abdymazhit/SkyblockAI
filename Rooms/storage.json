@@ -11,10 +11,12 @@
 	  "puzzleicepath",
 	  "puzzletrap",
 	  "puzzlequestions",
+	  "puzzleblaze",
       "water",
       "miniboss",
       "miniboss2",
       "miniboss3",
+	  "miniboss4",
       "mural",
 	  "lockedaway",
 	  "raccoon",
@@ -29,7 +31,9 @@
 	  "prisoncell",
 	  "arrowtrap",
 	  "slabs",
-	  "perch"
+	  "perch",
+	  "dip",
+	  "chains"
     ],
     "1x2": [
       "balcony",

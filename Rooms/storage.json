@@ -34,7 +34,10 @@
 	  "slabs",
 	  "perch",
 	  "dip",
-	  "chains"
+	  "chains",
+	  "banners",
+	  "dueces",
+	  "tomioka"
     ],
     "1x2": [
       "balcony",
@@ -49,7 +52,8 @@
     "1x3": [
       "catwalk",
 	  "wizard",
-	  "diagonal"
+	  "diagonal",
+	  "gravel"
     ],
     "1x4": [
 	  "pit",

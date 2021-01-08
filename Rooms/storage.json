@@ -10,6 +10,7 @@
 	  "puzzlebox",
 	  "puzzleicepath",
 	  "puzzletrap",
+	  "puzzlequestions",
       "water",
       "miniboss",
       "miniboss2",
@@ -27,7 +28,8 @@
 	  "leaves",
 	  "prisoncell",
 	  "arrowtrap",
-	  "slabs"
+	  "slabs",
+	  "perch"
     ],
     "1x2": [
       "balcony",
@@ -36,7 +38,8 @@
 	  "bridges",
 	  "pedestal",
 	  "pressureplate",
-	  "mage"
+	  "mage",
+	  "crypt"
     ],
     "1x3": [
       "catwalk",

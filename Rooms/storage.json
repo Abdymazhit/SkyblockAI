@@ -25,6 +25,7 @@
 	  "hall",
 	  "scaffolding",
 	  "puzzletrapveryhard",
+	  "puzzletrapveryhard2",
 	  "painting",
 	  "spikes",
 	  "leaves",
@@ -65,7 +66,8 @@
     "L": [
       "market",
 	  "melon",
-	  "lavaravine"
+	  "lavaravine",
+	  "dinodigsite"
     ]
   }
 }

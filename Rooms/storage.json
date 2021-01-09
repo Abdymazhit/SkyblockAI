@@ -55,7 +55,8 @@
 	  "pressureplate",
 	  "mage",
 	  "crypt",
-	  "purpleflags"
+	  "purpleflags",
+	  "archway"
     ],
     "1x3": [
       "catwalk",
@@ -75,7 +76,8 @@
 	  "railtrack",
 	  "atlas",
 	  "supertall",
-	  "flags"
+	  "flags",
+	  "cathedral"
     ],
     "L": [
       "market",

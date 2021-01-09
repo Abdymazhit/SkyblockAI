@@ -45,7 +45,10 @@
 	  "silverssword",
 	  "dome",
 	  "duncan",
-	  "cobblewallpillar"
+	  "cobblewallpillar",
+	  "mushroom",
+	  "drop",
+	  "redstonekey"
     ],
     "1x2": [
       "balcony",

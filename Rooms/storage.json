@@ -56,7 +56,8 @@
 	  "mage",
 	  "crypt",
 	  "purpleflags",
-	  "archway"
+	  "archway",
+	  "gold"
     ],
     "1x3": [
       "catwalk",
@@ -85,7 +86,8 @@
 	  "lavaravine",
 	  "dinodigsite",
 	  "chambers",
-	  "well"
+	  "well",
+	  "spider"
     ]
   }
 }

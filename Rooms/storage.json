@@ -49,7 +49,9 @@
 	  "mushroom",
 	  "drop",
 	  "redstonekey",
-	  "beams"
+	  "beams",
+	  "overgrown",
+	  "lotsoffloors"
     ],
     "1x2": [
       "balcony",
@@ -62,7 +64,8 @@
 	  "crypt",
 	  "purpleflags",
 	  "archway",
-	  "gold"
+	  "gold",
+	  "doors"
     ],
     "1x3": [
       "catwalk",

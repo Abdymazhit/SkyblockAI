@@ -40,7 +40,10 @@
 	  "dueces",
 	  "tomioka",
 	  "blueskulls",
-	  "water"
+	  "water",
+	  "granite",
+	  "silverssword",
+	  "dome"
     ],
     "1x2": [
       "balcony",
@@ -50,7 +53,8 @@
 	  "pedestal",
 	  "pressureplate",
 	  "mage",
-	  "crypt"
+	  "crypt",
+	  "purpleflags"
     ],
     "1x3": [
       "catwalk",
@@ -77,7 +81,8 @@
 	  "melon",
 	  "lavaravine",
 	  "dinodigsite",
-	  "chambers"
+	  "chambers",
+	  "well"
     ]
   }
 }

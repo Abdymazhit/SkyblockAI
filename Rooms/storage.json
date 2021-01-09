@@ -7,23 +7,24 @@
       "puzzle",
       "puzzle2",
       "puzzle3",
-	  "puzzlebox",
-	  "puzzleicepath",
-	  "puzzletrap",
-	  "puzzlequestions",
+	  "puzzle4",
+	  "puzzle5",
+	  "puzzle6",
+	  "puzzle7",
 	  "puzzleblaze",
-      "water",
       "miniboss",
       "miniboss2",
       "miniboss3",
 	  "miniboss4",
+	  "miniboss5",
       "mural",
 	  "lockedaway",
 	  "raccoon",
 	  "knight",
 	  "cell",
 	  "hall",
-	  "scaffolding",
+	  "scaffolding",	  
+	  "puzzletraphard",
 	  "puzzletrapveryhard",
 	  "puzzletrapveryhard2",
 	  "painting",
@@ -38,7 +39,8 @@
 	  "banners",
 	  "dueces",
 	  "tomioka",
-	  "blueskulls"
+	  "blueskulls",
+	  "water"
     ],
     "1x2": [
       "balcony",
@@ -54,7 +56,8 @@
       "catwalk",
 	  "wizard",
 	  "diagonal",
-	  "gravel"
+	  "gravel",
+	  "redblue"
     ],
     "1x4": [
 	  "pit",
@@ -66,13 +69,15 @@
       "museum",
 	  "railtrack",
 	  "atlas",
-	  "supertall"
+	  "supertall",
+	  "flags"
     ],
     "L": [
       "market",
 	  "melon",
 	  "lavaravine",
-	  "dinodigsite"
+	  "dinodigsite",
+	  "chambers"
     ]
   }
 }

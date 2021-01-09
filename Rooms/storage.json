@@ -51,7 +51,9 @@
 	  "redstonekey",
 	  "beams",
 	  "overgrown",
-	  "lotsoffloors"
+	  "lotsoffloors",
+	  "andesite",
+	  "jumpingskulls"
     ],
     "1x2": [
       "balcony",
@@ -72,7 +74,8 @@
 	  "wizard",
 	  "diagonal",
 	  "gravel",
-	  "redblue"
+	  "redblue",
+	  "deathmite"
     ],
     "1x4": [
 	  "pit",
@@ -86,7 +89,8 @@
 	  "atlas",
 	  "supertall",
 	  "flags",
-	  "cathedral"
+	  "cathedral",
+	  "buttons"
     ],
     "L": [
       "market",

@@ -12,6 +12,7 @@
 	  "puzzle6",
 	  "puzzle7",
 	  "puzzleblaze",
+	  "puzzleblaze2",
       "miniboss",
       "miniboss2",
       "miniboss3",
@@ -54,7 +55,9 @@
 	  "lotsoffloors",
 	  "andesite",
 	  "jumpingskulls",
-	  "cage"
+	  "cage",
+	  "admin",
+	  "temple"
     ],
     "1x2": [
       "balcony",
